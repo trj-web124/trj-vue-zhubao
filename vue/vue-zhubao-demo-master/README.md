@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-[原文出处:https://github.com/is-liyiwei/vue-zhubao-demo](https://github.com/is-liyiwei/vue-zhubao-demo).
+
 
 ## 本项目仅用于学习与交流，不用作商业用途，欢迎转载与留言，转载请注明出处
 
