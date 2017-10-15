@@ -1,0 +1,5 @@
+@mixin flexBox ($type1:flex, $type2:space-around, $type3:center){
+	display: $type1;
+	justify-content: $type2;
+	align-items: $type3;
+}

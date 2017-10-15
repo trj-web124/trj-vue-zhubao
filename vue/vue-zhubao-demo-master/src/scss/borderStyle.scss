@@ -1,0 +1,7 @@
+@mixin borderTop ($Num:1px,$Col:#e8e8e8){
+	border-top: $Num solid $Col;
+}
+
+@mixin borderBottom ($Num:1px,$Col:#e8e8e8){
+	border-bottom: $Num solid $Col;
+}
